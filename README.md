@@ -47,7 +47,7 @@ Ifedolapo.
 Xavier.
 
 ## Screenshots
-([App Screenshot](../App.png))
+!([App Screenshot](../App.png))
 
 ## Future Improvements
 - Add charts/graphs for better visualization  
