@@ -6,6 +6,26 @@ A Java-based desktop application that analyzes and visualizes gender pay dispari
 
 This tool allows users to search for job titles and compare male vs female average salaries, helping highlight income inequality in a simple and interactive way.
 
+## Screenshots
+
+<p align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/446095bc-38eb-4eb4-aba3-baa9607ef40f" />
+</p>
+
+## How to Run
+1. Clone the repository  
+2. Open in VS Code  
+3. Run:
+
+javac *.java
+java MainWindow
+
+## My Contribution
+
+- Fixed file path issues for cross-device compatibility
+- Implemented data normalization (trim + lowercase matching)
+- Debugged CSV parsing and data mapping issues
+- Integrated backend data logic with UI components
 
 ## Features
 - Search for job titles
@@ -22,37 +42,21 @@ This tool allows users to search for job titles and compare male vs female avera
 - CSV data processing
 
 
-## How to Run
-1. Clone the repository  
-2. Open in VS Code  
-3. Run:
-
-javac *.java
-java MainWindow
-
 ## Data Source
-U.S. Bureau of Labor Statistics (BLS)
 
-## My Contribution
-- Fixed file path issues to ensure cross-device compatibility  
-- Implemented data normalization (trim + lowercase matching)  
-- Debugged data loading and matching issues  
-- Assisted in integrating backend logic with the UI  
+Data sourced from the U.S. Bureau of Labor Statistics (BLS)  
+https://www.bls.gov/opub/reports/womens-earnings/
 
 
 ## Team Project
 This project was developed as part of a collaborative team effort.
+
+Team Members:
 Aksha Khadgi.
 Chloe Sutton.
 Ifedolapo.
 Xavier.
 
-## Screenshots
-## Screenshots
-
-<p align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/446095bc-38eb-4eb4-aba3-baa9607ef40f" />
-</p>
 
 ## Future Improvements
 - Add charts/graphs for better visualization  
