@@ -48,7 +48,11 @@ Ifedolapo.
 Xavier.
 
 ## Screenshots
-!([App Screenshot](../App.png))
+## Screenshots
+
+<p align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/446095bc-38eb-4eb4-aba3-baa9607ef40f" />
+</p>
 
 ## Future Improvements
 - Add charts/graphs for better visualization  
