@@ -1,4 +1,4 @@
-<img width="909" height="600" alt="App" src="https://github.com/user-attachments/assets/446095bc-38eb-4eb4-aba3-baa9607ef40f" />
+
 # Gender Pay Gap Visualizer
 
 ## Overview
