@@ -5,6 +5,7 @@ A Java-based desktop application that analyzes and visualizes gender pay dispari
 
 This tool allows users to search for job titles and compare male vs female average salaries, helping highlight income inequality in a simple and interactive way.
 
+
 ## Features
 - Search for job titles
 - Display job descriptions
@@ -46,7 +47,7 @@ Ifedolapo.
 Xavier.
 
 ## Screenshots
-([App Screenshot](app.png))
+([App Screenshot](../App.png))
 
 ## Future Improvements
 - Add charts/graphs for better visualization  
